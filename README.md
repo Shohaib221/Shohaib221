@@ -1,4 +1,4 @@
-<h1 align="center">Hello!, I'm Shohaib</h1>
+<h1 align="center">Hello!I'm Shohaib</h1>
 <h3 align="center">Student developer experimenting with Python, JavaScript, and web dev</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shohaib221" alt="shohaib221" /></a> </p>
